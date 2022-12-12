@@ -1,5 +1,7 @@
 ## Interface: 11200
 ## Title: Aero
+## Title-ruRU: Аэро
 ## Notes: Adds animations to frames.
+## Notes-ruRU: Добавляет анимацию окнам.
 Aero.lua
 Frames.lua
